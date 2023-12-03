@@ -4,4 +4,4 @@ A novel framework for training segmentation models robust to stain variation on 
 
 ## Source
 
-ArXiv paper to be released soon.
+**arXiv**: https://arxiv.org/abs/2311.06552
